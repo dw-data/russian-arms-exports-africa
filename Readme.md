@@ -15,7 +15,7 @@ Data for this analysis was extracted from [SIPRI's Arms Transfers Database](http
 
 * **SIPRI's Trend Indicator Values (TIV)** If not otherwise stated, all figures used in this analysis refer to SIPRI's TIV expressed in millions. The TIV does not reflect the financial value of weapons traded. Instead it is a military capability index based on weapons purchased by countries. A more detailed definition can be found [here](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1212.pdf). Furthermore SIPRI states that figures may not add up due to the conventions of rounding. A '0' indicates that the value of deliveries is less than 0.5m. More details can be found [here](http://www.sipri.org/databases/armstransfers/sources-and-methods/).
 
-* **Classification of regions**: In this analysis we chose to classify countries differently from how SIPRI clusters countries into regions. According to [SIPRI's classification of countries](https://www.sipri.org/databases/regional-coverage), Egypt is not assigned to the Middle East region. In our analyis we assigned it to Africa. This is why our figures for overall exports from Russia to African countries are higher than those cited in SIPRI's reports on this topic.
+* **Classification of regions**: In this analysis we chose to classify countries differently from how SIPRI clusters countries into regions. According to [SIPRI's classification of countries](https://www.sipri.org/databases/regional-coverage), Egypt is assigned to the Middle East region. In our analyis we assigned it to Africa. This is why our figures for overall exports from Russia to African countries are higher than those cited in SIPRI's reports on this topic.
 
 
 ## Data and Analysis
