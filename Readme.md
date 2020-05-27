@@ -26,33 +26,49 @@ You can find the raw data this analysis is based on in the [data folder](/data).
 
 ### Russian exports to African states over time, compared to China, USA and France
 
-[File](/data/ExportVolume-to-AfricanCountries.csv)
+[Data File](/data/ExportVolume-to-AfricanCountries.csv)
 
 **Timeframe:** TIV of arms exports from Russia to African countries, 2000-2019
 
 **Dataset Structure**
 
-Column | Content | Type
+Column title | content | data type
 ---------------|----------| ---------|
 year | year of delivery | numerical
-country | exporting country | categorical
+country | exporting country, filtered to only include Russia, China, USA, France | categorical
 ExportsToAfricanStates_million_TIV | total export volume from exporting country to all African states, in million TIV | numerical
+
+![](/charts/165_en_arms_countries_01.png)
 
 ### Most-ordered weapons by African states from Russian suppliers
 
-[File](/data/RussianArmsImportedByAfricanCountries.csv)
+[Data File](/data/RussianArmsImportedByAfricanCountries.csv)
 
 **Timeframe:** Arms exports from Russia, 2000-2019
 
+**Dataset Structure**
+Column title | content | data type
+---------------|----------| ---------|
+country | African country importing Russian arms | categorical
+*year colums* | one column for each year between 2000 and 2019 | numerical
+TIV_ArmsFromRussia_2000_2019 | sum, created by adding up all year columns | numerical
+TIV_ArmsFromRussia_2015_2019 | sum, created by summing up the columns from 2015 to 2019 | numerical
+
+The column `TIV_ArmsFromRussia_2015_2019` is the one that was used to create the map.
+
+![](/charts/166_en_mapping_RussianWeapons_Africa-01.png)
 
 ### Russian exports to African states: geographical distribution of recipients
 
-[File](/data/WeaponsTypesExportedFromRussiaToAfrica.csv)
+[Data File](/data/WeaponsTypesExportedFromRussiaToAfrica.csv)
 
 **Timeframe:** TIV of arms exports from Russia, 2015 and 2019
 
+**Dataset Structure**
+Column title | content | data type
+---------------|----------| ---------|
 
-
+![](/charts/166_en_mapping_RussianWeapons_Africa-01.png)
 
 
 
