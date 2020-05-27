@@ -1,0 +1,329 @@
+Recipient,Supplier,No. ordered,uncertain,Weapon designation,Weapon description,Year of order,uncertain, Year of delivery,No. delivered,uncertain,Comments
+Algeria,Russia,2,FALSE,AK-630 30mm,Naval gun,1992,TRUE,1995-2002,2,FALSE,For 2 Djebel Chenoua FAC produced in Algeria
+Algeria,Russia,3,FALSE,AK-176 76mm,Naval gun,1995,TRUE,2000-2002,3,TRUE,For 3 Djebel Chenoua FAC produced in Algeria
+Algeria,Russia,1,FALSE,Garpun/Plank Shave,Air search radar,1997,TRUE,2000,1,FALSE,For modernization of 1 Project-1234 (Nanuchka or Hamidou) corvette
+Algeria,Russia,1,FALSE,MR-104/Drum Tilt,Fire control radar,1997,TRUE,2000,1,FALSE,For modernization of 1 Project-1159 (Koni or Mourad Rais) frigate
+Algeria,Russia,2,TRUE,Pozitiv-ME1.2,Air/sea search radar,1997,TRUE,2000,2,FALSE,For modernization of 1 Project-1159 (Koni or Mourad Rais) frigate and 1 Project-1234 (Nanuchka or Hamidou) corvette
+Algeria,Russia,24,TRUE,TEST-71,AS/ASW torpedo,1997,TRUE,2000-2002,24,TRUE,Probably incl for modernized Koni (Mourad Rais) frigate
+Algeria,Russia,6,FALSE,Il-78M,Tanker/transport ac,1998,TRUE,2000-2001,6,TRUE,Second-hand but possibly modernized before delivery
+Algeria,Russia,30,TRUE,Kh-35 Uran/SS-N-25,Anti-ship missile,1998,FALSE,2000,30,TRUE,For modernized Nanuchka (Hamidou) corvette
+Algeria,Russia,6,TRUE,MiG-29,Fighter aircraft,1999,TRUE,2000,6,FALSE,Second-hand/ MiG-29UB version/ ordered and delivered via Belarus (part of deal incl 25 MiG-29 delivered from Belarus)
+Algeria,Russia,3,TRUE,Su-24/Fencer,Bomber aircraft,1999,FALSE,2001,3,TRUE,Second-hand but probably modernized before delivery
+Algeria,Russia,22,FALSE,Su-24/Fencer,Bomber aircraft,2000,FALSE,2001-2005,22,TRUE,Second-hand but probably modernised before delivery/ $120 m deal/ Su-22M version
+Algeria,Russia,42,FALSE,Mi-8MT/Mi-17,Transport helicopter,2002,FALSE,2002-2004,42,TRUE,$180 m deal/ Mi-171Sh armed version
+Algeria,Russia,2,FALSE,AK-630 30mm,Naval gun,2004,TRUE,2006,2,FALSE,For 1 Daxin training ship from China
+Algeria,Russia,400,TRUE,Berezhok,IFV turret,2005,FALSE,2006-2010,400,TRUE,For modernization of 400 BMP-1 IFV to BMP-1M
+Algeria,Russia,4000,TRUE,Kornet/AT-14,Anti-tank missile,2005,FALSE,2006-2010,4000,TRUE,For BMP-1 IFV modernized to BMP-1M
+Algeria,Russia,300,TRUE,48N6/SA-10,SAM,2006,FALSE,2008-2011,300,TRUE,For S-300PMU-2 (SA-20B) SAM system
+Algeria,Russia,40,TRUE,53-65,AS torpedo,2006,FALSE,2010,40,TRUE,For Project-636 (Kilo) submarines
+Algeria,Russia,900,TRUE,57000000,SAM,2006,TRUE,2012-2016,900,TRUE,For Pantsyr-S1 air-defence systems
+Algeria,Russia,38,TRUE,96K9 Pantsyr-S1,Mobile AD system,2006,TRUE,2012-2016,38,TRUE,
+Algeria,Russia,500,TRUE,9M131 Metis-M/AT-13,Anti-tank missile,2006,TRUE,2009-2013,500,TRUE,
+Algeria,Russia,5,TRUE,Kasta-2E2,Air search radar,2006,TRUE,2012-2016,5,TRUE,For use with Pantsyr AD systems
+Algeria,Russia,125,TRUE,Kh-31M/AS-17 Mod-2,Anti-ship missile,2006,TRUE,2007-2009,125,TRUE,For Su-30MK combat aircraft
+Algeria,Russia,125,TRUE,Kh-59/AS-13,ASM,2006,TRUE,2008-2009,125,TRUE,For Su-30MK combat aircraft
+Algeria,Russia,2,FALSE,Project-636E/Kilo,Submarine,2006,FALSE,2010,2,FALSE,$400 m deal
+Algeria,Russia,350,TRUE,R-73/AA-11,SRAAM,2006,TRUE,2008-2009,350,TRUE,For Su-30MK combat aircraft
+Algeria,Russia,250,TRUE,RVV-AE/AA-12 Adder,BVRAAM,2006,TRUE,2008-2009,250,TRUE,For Su-30MK combat aircraft
+Algeria,Russia,3,TRUE,S-300PMU2/SA-20B,SAM system,2006,TRUE,2008-2011,3,TRUE,
+Algeria,Russia,28,FALSE,Su-30MK,FGA aircraft,2006,TRUE,2008-2009,28,FALSE,$1.2-1.8 b deal/ Su-30MKA version
+Algeria,Russia,185,FALSE,T-90S,Tank,2006,FALSE,2006-2008,185,FALSE,$1 b deal/ T-90SA and T-90SKA versions
+Algeria,Russia,40,TRUE,TEST-71,AS/ASW torpedo,2006,TRUE,2010,40,FALSE,For Project-636 (Kilo) submarines
+Algeria,Russia,16,FALSE,Yak-130,Trainer/combat ac,2006,FALSE,2011,16,TRUE,$200-250 m deal
+Algeria,Russia,2,FALSE,Garpun/Plank Shave,Air search radar,2007,TRUE,2011-2012,2,FALSE,For modernization of 2 Project-1234 (Nanuchka or Hamidou) corvettes
+Algeria,Russia,4,TRUE,Pozitiv-ME1.2,Air/sea search radar,2007,TRUE,2011-2012,4,FALSE,For modernization of 2 Project-1159 (Koni or Rais) frigates and 2 Project-1234 (Nanuchka or Hamidou) corvettes
+Algeria,Russia,20,TRUE,TEST-71,AS/ASW torpedo,2007,TRUE,2011-2013,20,TRUE,For modernized Project-1159 (Koni or Mourad Rais) frigates
+Algeria,Russia,30,TRUE,Kh-35 Uran/SS-N-25,Anti-ship missile,2009,TRUE,2011-2013,30,TRUE,For modernized Project-1234 (Nanuchka or Hamidou) corvettes
+Algeria,Russia,16,FALSE,Su-30MK,FGA aircraft,2010,FALSE,2011-2012,16,TRUE,$0.8-1 b deal/ Su-30MKA version
+Algeria,Russia,120,TRUE,T-90S,Tank,2011,FALSE,2012-2014,120,TRUE,$470 m deal/ T-90SA and T-90SKA versions
+Algeria,Russia,1000,TRUE,9M120 Ataka/AT-9,Anti-tank missile,2013,FALSE,2016-2018,1000,TRUE,For Mi-28 combat helicopters/ designation uncertain (possibly not 9M120 but 9M114)
+Algeria,Russia,100,TRUE,9M317/SA-17 Grizzly,SAM,2013,TRUE,2017,100,TRUE,
+Algeria,Russia,4,TRUE,9P78 Iskander,SSM TEL,2013,TRUE,2017,4,TRUE,Recipient uncertain (could be other recipient in Middle East or North Africa)
+Algeria,Russia,1,TRUE,Buk-M2/SA-17,SAM system,2013,TRUE,2017,1,TRUE,
+Algeria,Russia,25,TRUE,Iskander,SSM,2013,TRUE,2017,25,TRUE,Recipient uncertain
+Algeria,Russia,6,FALSE,Mi-26,Transport helicopter,2013,FALSE,2015,6,FALSE,Part of $2.7 b deal/ Mi-26T2 version
+Algeria,Russia,42,FALSE,Mi-28N,Combat helicopter,2013,FALSE,2016-2018,42,TRUE,Part of $2.7 b deal/ Mi-28NE version
+Algeria,Russia,40,TRUE,53-65,AS torpedo,2014,TRUE,2018,40,TRUE,For Project-636 (Kilo) submarines
+Algeria,Russia,360,FALSE,Berezhok,IFV turret,2014,TRUE,2015-2017,360,TRUE,For modernization of 360 BMP-1 IFV to BMP-1M
+Algeria,Russia,4000,TRUE,Kornet/AT-14,Anti-tank missile,2014,TRUE,2015-2017,4000,TRUE,
+Algeria,Russia,2,FALSE,Project-636E/Kilo,Submarine,2014,FALSE,2018,2,FALSE,
+Algeria,Russia,203,TRUE,T-90S,Tank,2014,TRUE,2015-2016,203,TRUE,T-90SA and T-90SKA versions
+Algeria,Russia,40,TRUE,TEST-71,AS/ASW torpedo,2014,TRUE,2018,40,TRUE,For Project-636 (Kilo) submarines
+Algeria,Russia,8,FALSE,Mi-26,Transport helicopter,2015,FALSE,2017,8,FALSE,Mi-26T2 version
+Algeria,Russia,14,FALSE,Su-30MK,FGA aircraft,2015,FALSE,2016-2018,14,TRUE,Su-30MKA version
+Algeria,Russia,11,TRUE,Tigr,APV,2015,FALSE,2016-2017,11,TRUE,
+Algeria,Russia,4,TRUE,TOS-1,Self-propelled MRL,2015,TRUE,2016,4,TRUE,
+Algeria,Russia,300,TRUE,BMPT Terminator,Tank/AFSV,2016,TRUE,,,FALSE,BMPT-72 version
+Angola,Russia,4,TRUE,An-12,Transport aircraft,1999,TRUE,2000-2001,4,TRUE,Second-hand
+Angola,Russia,2,FALSE,An-32,Transport aircraft,2000,TRUE,2000,2,FALSE,Second-hand
+Angola,Russia,1,FALSE,An-72A,Transport aircraft,2000,TRUE,2001,1,FALSE,Second-hand
+Angola,Russia,6,TRUE,Mi-24P/Mi-35P,Combat helicopter,2000,TRUE,2000-2002,6,FALSE,Possibly ex-Russian
+Angola,Russia,6,FALSE,Mi-8MT/Mi-17,Transport helicopter,2000,TRUE,2000-2001,6,TRUE,Mi-17V version
+Angola,Russia,8,TRUE,Mi-8MT/Mi-17,Transport helicopter,2013,FALSE,2015-2016,8,FALSE,Part of $1 b deal/ Mi-171Sh armed version
+Angola,Russia,12,FALSE,Su-30K,FGA aircraft,2013,FALSE,2017-2019,12,FALSE,Second-hand (originally delivered to India but returned to Russian producer) but modernized in Belarus to Su-30SM before delivery/ financed with Russian loan
+Angola,Russia,12,FALSE,Mi-24P/Mi-35P,Combat helicopter,2015,TRUE,2016,12,FALSE,Second-hand/ modernized before delivery
+Burkina Faso,Russia,2,FALSE,Mi-24P/Mi-35P,Combat helicopter,2005,FALSE,2005,2,FALSE,Probably second-hand but modernized before delivery/ Mi-35 version
+Burkina Faso,Russia,20,FALSE,Igla-S/SA-24,Portable SAM,2011,FALSE,2012,20,TRUE,For vehicle-mounted launchers
+Burkina Faso,Russia,2,FALSE,Mi-8MT/Mi-17,Transport helicopter,2017,FALSE,2018,2,TRUE,Mi-171Sh armed version
+Cameroon,Russia,3,TRUE,Mi-8MT/Mi-17,Transport helicopter,2013,TRUE,2013-2014,3,TRUE,Probably Mi-17V-5 version
+Cameroon,Russia,2,TRUE,Mi-8MT/Mi-17,Transport helicopter,2014,TRUE,2014,2,TRUE,Probably Mi-17-1V version
+Cameroon,Russia,2,TRUE,Mi-24V/Mi-35,Combat helicopter,2015,FALSE,2016,2,TRUE,Second-hand but modernized before delivery/ for use against Boko Haram rebels
+Chad,Russia,2,TRUE,Mi-8MT/Mi-17,Transport helicopter,2005,TRUE,2006,2,TRUE,Mi-171 armed version/ possibly from Russia/ no. could be up to 6/ supplier uncertain (could be second-hand aircraft from other East European supplier)
+Chad,Russia,1,FALSE,Mi-8MT/Mi-17,Transport helicopter,2009,FALSE,2010,1,FALSE,Possibly Chadian Mi-17 seriously damaged in 2002 and rebuilt/ supplier uncertain
+Congo,Russia,2,TRUE,Mi-8MT/Mi-17,Transport helicopter,2012,TRUE,2013-2014,2,TRUE,Armed Mi-171 version
+Cote d'Ivoire,Russia,4,TRUE,KAMAZ-7403,Diesel engine,2018,TRUE,2018,4,FALSE,For 4 BTR-70 modernized to BTR-70MB from Belarus
+Djibouti,Russia,8,FALSE,BTR-80,APC,2001,TRUE,2002,8,FALSE,
+Egypt,Russia,10,TRUE,S-125 Pechora-2M,SAM system,1999,FALSE,2002-2006,10,TRUE,Egyptian SA-3 SAMS rebuilt to Pechora M2 version/ no. could be 20
+Egypt,Russia,100,FALSE,9M338/SA-15,SAM,2005,TRUE,2005,100,TRUE,
+Egypt,Russia,100,TRUE,9M338/SA-15,SAM,2005,TRUE,2011,100,TRUE,
+Egypt,Russia,4,FALSE,Tor-M1/SA-15,Mobile SAM system,2005,TRUE,2005,4,TRUE,
+Egypt,Russia,4,TRUE,Tor-M1/SA-15,Mobile SAM system,2005,TRUE,2011,4,TRUE,Possibly Tor-M2 version
+Egypt,Russia,1,TRUE,9K37 Buk-1M/SA-11,SAM system,2006,TRUE,2007,1,TRUE,
+Egypt,Russia,100,TRUE,9M317/SA-17 Grizzly,SAM,2006,TRUE,2007,100,TRUE,For Buk-1M (SA-11) SAM system
+Egypt,Russia,20,TRUE,S-125 Pechora-2M,SAM system,2006,TRUE,2010-2011,20,TRUE,Egyptian S-125 (SA-3) SAM systems rebuilt to Pechora M2 version
+Egypt,Russia,600,TRUE,Igla-S/SA-24,Portable SAM,2007,TRUE,2009-2010,600,TRUE,For modernization of    ZSU-23 SPAAG to ZSU-23-4M4
+Egypt,Russia,10,FALSE,Mi-8MT/Mi-17,Transport helicopter,2008,FALSE,2010-2011,10,TRUE,$150-200 m deal/ armed Mi-17V-5 version
+Egypt,Russia,1,FALSE,EgyptSat-2,Recce satellite,2009,FALSE,2014,1,FALSE,Incl for civilian role
+Egypt,Russia,14,FALSE,Mi-8MT/Mi-17,Transport helicopter,2009,FALSE,2012-2013,14,TRUE,$100 m deal/ armed Mi-17V-5 version
+Egypt,Russia,1,TRUE,Buk-M2/SA-17,SAM system,2012,TRUE,2014,1,TRUE,Possibly Egyptian Buk-M1-2 (SA-11) SAM system rebuilt to Buk-M2
+Egypt,Russia,40,TRUE,9M82M/SA-23A,SAM,2014,TRUE,2016-2017,40,TRUE,For S-300VM (Antey-2500 or SA-23) SAM systems
+Egypt,Russia,150,TRUE,9M83M/SA-23B,SAM,2014,TRUE,2016-2017,150,TRUE,For S-300VM (Antey-2500 or SA-23) SAM systems
+Egypt,Russia,1000,TRUE,9A1472 Vikhr/AT-16,Anti-tank missile,2015,TRUE,2017-2019,1000,TRUE,For Ka-52K combat helicopters
+Egypt,Russia,1000,TRUE,9M120 Ataka/AT-9,Anti-tank missile,2015,TRUE,2017-2019,1000,TRUE,For Ka-52K combat helicopters
+Egypt,Russia,1,FALSE,EgyptSat-2,Recce satellite,2015,TRUE,2019,1,FALSE,Incl. for civilian use/ EgyptSat-A version
+Egypt,Russia,46,FALSE,Ka-52/Hokum-B,Combat helicopter,2015,TRUE,2017-2019,46,TRUE,Ka-52K version
+Egypt,Russia,50,TRUE,MiG-29M,FGA aircraft,2015,FALSE,2017-2019,39,TRUE,Incl MiG-29M2 version/ delivery planned 2017-2020
+Egypt,Russia,10,TRUE,Moskit/SS-N-22,Anti-ship missile,2015,FALSE,2015-2016,10,TRUE,Second-hand/ aid/ for Project-12421 (Tarantul) FAC
+Egypt,Russia,1,FALSE,Project-1241/Tarantul,FAC,2015,FALSE,2016,1,FALSE,Second-hand/ Project-12421 version/ aid
+Egypt,Russia,1,TRUE,Protivnik-GE,Air search radar,2015,TRUE,2016,1,TRUE,
+Egypt,Russia,300,TRUE,R-73/AA-11,SRAAM,2015,TRUE,2017-2019,225,TRUE,
+Egypt,Russia,300,TRUE,RVV-AE/AA-12 Adder,BVRAAM,2015,TRUE,2017-2019,225,TRUE,For MiG-29M2 combat aircraft
+Egypt,Russia,3,FALSE,S-300VM/SA-23,SAM system,2015,TRUE,2016-2017,3,TRUE,$0.5-1 b deal
+Egypt,Russia,24,TRUE,Su-35,FGA aircraft,2019,TRUE,,,FALSE,$2 billion deal
+Equatorial Guinea,Russia,1,FALSE,Mi-8MT/Mi-17,Transport helicopter,2005,TRUE,2006,1,FALSE,Mi-172 version/ 1 more delivered for government VIP transport
+Equatorial Guinea,Russia,1,FALSE,Mi-8MT/Mi-17,Transport helicopter,2017,TRUE,2018,1,FALSE,Mi-172 version/ 1 more delivered for government VIP transport
+Eritrea,Russia,2,TRUE,MiG-29S,FGA aircraft,2001,TRUE,2001,2,FALSE,
+Eritrea,Russia,2,TRUE,MiG-29SMT/Fulcrum-F,FGA aircraft,2002,TRUE,2004,2,FALSE,No. could be 4
+Eritrea,Russia,80,FALSE,Kornet/AT-14,Anti-tank missile,2005,FALSE,2005,80,TRUE,$0.17 m deal/ Kornet-E version
+Ethiopia,Russia,309,TRUE,D-30 122mm,Towed gun,1997,TRUE,1998-2000,309,TRUE,Possibly second-hand/ designation uncertain (reported as artillery of 100mm or more calibre)
+Ethiopia,Russia,4,TRUE,Su-25,Ground attack ac,1999,TRUE,2000,4,FALSE,Incl 2 Su-25UB version
+Ethiopia,Russia,10,TRUE,Mi-24P/Mi-35P,Combat helicopter,2002,TRUE,2003-2004,10,FALSE,Probably second-hand but possibly modernized before delivery/ $25 m deal
+Ethiopia,Russia,8,TRUE,Su-27S/Flanker-B,FGA aircraft,2002,TRUE,2003-2004,8,TRUE,Possibly second-hand
+Ethiopia,Russia,18,TRUE,M-46 130mm,Towed gun,2003,TRUE,2003,18,FALSE,Probably second-hand/ designation uncertain (reported as artillery with calibre of 100mm or more)
+Ethiopia,Russia,8,TRUE,Mi-8MT/Mi-17,Transport helicopter,2009,TRUE,2010,8,FALSE,Armed Mi-17V-5 version
+Ethiopia,Russia,100,TRUE,57000000,SAM,2018,TRUE,2019,100,TRUE,For Pantsyr-S1 air defence systems
+Ethiopia,Russia,4,TRUE,96K9 Pantsyr-S1,Mobile AD system,2018,TRUE,2019,4,TRUE,
+Ghana,Russia,4,FALSE,Mi-8MT/Mi-17,Transport helicopter,2004,FALSE,2004,4,FALSE,$55 m deal (financed with loan from UK bank)
+Ghana,Russia,4,FALSE,Mi-8MT/Mi-17,Transport helicopter,2012,FALSE,2013,4,TRUE,EUR64 m deal/ Mi-171Sh armed version
+Ghana,Russia,2,FALSE,Mi-8MT/Mi-17,Transport helicopter,2012,FALSE,2013,2,TRUE,EUR24 m deal/ Mi-171Sh armed version
+Guinea,Russia,4,FALSE,Tigr,APV,2011,TRUE,2011,4,FALSE,
+Kenya,Russia,3,FALSE,Mi-8MT/Mi-17,Transport helicopter,2010,FALSE,2010,3,FALSE,Mi-171E armed version
+Libya,Russia,482,TRUE,Igla-S/SA-24,Portable SAM,2004,FALSE,2006-2008,482,TRUE,For vehicle-mounted launchers
+Libya,Russia,40,TRUE,KAB-500/1500,Guided Bomb,2004,TRUE,2005,40,TRUE,KAB-1500 version
+Libya,Russia,150,TRUE,9M123/AT-15,Anti-tank missile,2010,TRUE,2010,150,TRUE,For Khrizantema-S tank destroyers
+Libya,Russia,4,TRUE,9P157-2 Khrizantema-S,Tank destroyer,2010,TRUE,2010,4,FALSE,
+Libya,Russia,350,TRUE,9M123/AT-15,Anti-tank missile,2012,FALSE,2013,350,TRUE,For Khrizantema-S tank destroyers
+Libya,Russia,10,TRUE,9P157-2 Khrizantema-S,Tank destroyer,2012,TRUE,2013,10,TRUE,
+Mali,Russia,4,TRUE,Mi-35M,Combat helicopter,2016,TRUE,2017,2,FALSE,
+Morocco,Russia,100,TRUE,9M113 Konkurs/AT-5,Anti-tank missile,2000,TRUE,2001,100,TRUE,
+Morocco,Russia,100,FALSE,Kornet/AT-14,Anti-tank missile,2000,TRUE,2001,100,TRUE,
+Morocco,Russia,12,TRUE,2S6M Tunguska,Mobile AD system,2005,FALSE,2005-2008,12,TRUE,$250 m deal
+Morocco,Russia,200,TRUE,9M311/SA-19,SAM,2005,FALSE,2005-2008,200,TRUE,For 2S6 AD systems
+Mozambique,Russia,1,TRUE,Mi-8MT/Mi-17,Transport helicopter,2018,TRUE,2019,1,TRUE,Probably Mi-171 version
+Niger,Russia,2,TRUE,Mi-24P/Mi-35P,Combat helicopter,2007,FALSE,2008,2,TRUE,Possibly second-hand
+Nigeria,Russia,10,FALSE,Mi-34S,Light helicopter,1999,FALSE,2001-2002,10,TRUE,For training
+Nigeria,Russia,6,FALSE,Mi-24P/Mi-35P,Combat helicopter,2000,TRUE,2000,6,FALSE,Probably second-hand but modernized before delivery
+Nigeria,Russia,4,FALSE,Mi-8MT/Mi-17,Transport helicopter,2002,TRUE,2003,4,FALSE,Mi-171Sh armed version
+Nigeria,Russia,3,FALSE,Mi-35M,Combat helicopter,2012,FALSE,2014,3,TRUE,Possibly second-hand Mi-24 rebuilt to Mi-35M before delivery
+Nigeria,Russia,6,FALSE,Mi-8MT/Mi-17,Transport helicopter,2012,TRUE,2015,6,TRUE,Mi-171Sh armed version
+Nigeria,Russia,6,TRUE,Mi-35M,Combat helicopter,2014,FALSE,2014-2015,6,TRUE,Possibly second-hand Mi-24 but modernized or rebuilt to Mi-35M before delivery
+Nigeria,Russia,300,TRUE,9M114 Shturm/AT-6,Anti-tank missile,2015,TRUE,2017-2019,150,TRUE,For Mi-35M combat helicopters
+Nigeria,Russia,12,TRUE,Mi-35M,Combat helicopter,2015,FALSE,2017-2019,6,FALSE,
+Nigeria,Russia,3,TRUE,RD-33,Turbofan,2016,TRUE,,,FALSE,RD-93 version for 3 JF-17 combat aircraft from Pakistan
+Rwanda,Russia,4,FALSE,Mi-8MT/Mi-17,Transport helicopter,1998,FALSE,1999-2000,4,TRUE,Possibly incl some ex-Russian/ Mi-17MD armed version
+Rwanda,Russia,6,TRUE,Mi-8MT/Mi-17,Transport helicopter,2013,TRUE,2014-2015,6,FALSE,Mi-17V version/ incl for use with Rwandan peacekeeping forces in South Sudan
+Senegal,Russia,2,TRUE,Mi-8MT/Mi-17,Transport helicopter,2004,TRUE,2005,2,TRUE,Mi-171 version
+Senegal,Russia,2,TRUE,Mi-24P/Mi-35P,Combat helicopter,2005,TRUE,2007,2,FALSE,Mi-35P version/ possibly second-hand Mi-24 modernized or rebuilt to Mi-35P
+South Africa,Russia,1,FALSE,Kondor-E,Recce satellite,2006,FALSE,2014,1,FALSE,ZAR1.2 b ($186 m) 'Project Consolidated Flute' deal
+South Sudan,Russia,9,FALSE,Mi-8MT/Mi-17,Transport helicopter,2007,FALSE,2011,9,FALSE,Mi-17V-5 version (not incl 1 Mi-172 version for government VIP transport)
+South Sudan,Russia,6,TRUE,Mi-24P/Mi-35P,Combat helicopter,2014,FALSE,2015-2016,6,TRUE,Second-hand/ $42.8 m deal/ sold via Ukraine
+Sudan,Russia,30,TRUE,BTR-80A,IFV,2000,TRUE,2001-2002,30,FALSE,Sudanese designation Shareef-1
+Sudan,Russia,16,TRUE,Mi-24P/Mi-35P,Combat helicopter,2000,FALSE,2001-2002,16,TRUE,Probably second-hand but modernized before delivery
+Sudan,Russia,12,FALSE,MiG-29S,FGA aircraft,2002,FALSE,2003-2004,12,FALSE,$120 m deal/ MiG-29SE version/ incl 2 MiG-29UB
+Sudan,Russia,60,TRUE,BTR-80A,IFV,2004,FALSE,2009-2010,60,TRUE,Sudanese designation Shareef-1/ possibly assembled in Sudan
+Sudan,Russia,15,TRUE,Mi-8MT/Mi-17,Transport helicopter,2004,TRUE,2004-2008,15,TRUE,Possibly incl for police
+Sudan,Russia,12,FALSE,Mi-24P/Mi-35P,Combat helicopter,2005,FALSE,2005,12,TRUE,Probably second-hand but modernized before delivery/ probably incl Mi-24V version
+Sudan,Russia,10,TRUE,V-46,Diesel engine,2005,TRUE,2006,10,TRUE,For 10 T-72Z tanks from Iran
+Sudan,Russia,50,TRUE,V-55,Diesel engine,2007,TRUE,2008-2012,50,TRUE,V-55B or V-55V version for modernization of T-54 and T-55 tanks to Digna/ supplier uncertain
+Sudan,Russia,2,TRUE,An-74,Transport aircraft,2008,TRUE,2009,2,TRUE,Second-hand
+Sudan,Russia,12,TRUE,Mi-24P/Mi-35P,Combat helicopter,2009,FALSE,2011,12,FALSE,Probably second-hand but modernized before delivery/ probably incl Mi-24V version
+Sudan,Russia,4,FALSE,Mi-8MT/Mi-17,Transport helicopter,2009,FALSE,2010,4,FALSE,
+Sudan,Russia,100,TRUE,Kornet/AT-14,Anti-tank missile,2011,TRUE,2012,100,TRUE,
+Sudan,Russia,6,TRUE,Mi-8MT/Mi-17,Transport helicopter,2011,FALSE,2012,6,TRUE,
+Sudan,Russia,12,FALSE,Mi-24P/Mi-35P,Combat helicopter,2013,FALSE,2015-2017,12,TRUE,Probably second-hand but modernized before delivery
+Sudan,Russia,8,TRUE,Mi-8MT/Mi-17,Transport helicopter,2013,FALSE,2015-2016,8,TRUE,
+Sudan,Russia,6,FALSE,KAMAZ-7403,Diesel engine,2017,FALSE,2018,6,FALSE,For 6 BTR-70 modernized to BTR-70MB from Belarus
+Uganda,Russia,3,TRUE,Mi-24P/Mi-35P,Combat helicopter,2003,TRUE,2004,3,TRUE,Second-hand Mi-24P but modernized to Mi-24PN before delivery
+Uganda,Russia,23,TRUE,T-55AM-2,Tank,2009,FALSE,2009,23,FALSE,Second-hand/ delivered via Belarus
+Uganda,Russia,32,TRUE,BTR-80A,IFV,2010,TRUE,2011,32,FALSE,Designation uncertain (reported as 'armoured combat vehicles')
+Uganda,Russia,100,TRUE,KAB-500/1500,Guided Bomb,2010,FALSE,2011-2012,100,TRUE,For Su-30 combat aircraft
+Uganda,Russia,25,TRUE,Kh-31A1/AS-17,Anti-ship missile/ARM,2010,FALSE,2011-2012,25,TRUE,Kh-31P anti-radar version
+Uganda,Russia,1000,FALSE,Kornet/AT-14,Anti-tank missile,2010,FALSE,2012-2013,1000,TRUE,Kornet-E version
+Uganda,Russia,75,TRUE,R-73/AA-11,SRAAM,2010,TRUE,2011-2012,75,TRUE,For Su-30 combat aircraft
+Uganda,Russia,6,FALSE,Su-30MK,FGA aircraft,2010,FALSE,2011-2012,6,FALSE,UGX1.8 tr ($635 m) deal/ Su-30MK2 version
+Uganda,Russia,44,TRUE,T-90S,Tank,2010,FALSE,2011,44,FALSE,
+Zambia,Russia,2,TRUE,Mi-8MT/Mi-17,Transport helicopter,2014,FALSE,2015,2,TRUE,Mi-171E version
+,,,,,,,,,21211,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Types of weapons,,,,,,,,,,,
+Algeria,Russia,2,FALSE,AK-630 30mm,Naval gun,1992,TRUE,1995-2002,2,FALSE,For 2 Djebel Chenoua FAC produced in Algeria
+Algeria,Russia,3,FALSE,AK-176 76mm,Naval gun,1995,TRUE,2000-2002,3,TRUE,For 3 Djebel Chenoua FAC produced in Algeria
+Algeria,Russia,2,FALSE,AK-630 30mm,Naval gun,2004,TRUE,2006,2,FALSE,For 1 Daxin training ship from China
+Algeria,Russia,1,FALSE,Garpun/Plank Shave,Air search radar,1997,TRUE,2000,1,FALSE,For modernization of 1 Project-1234 (Nanuchka or Hamidou) corvette
+Algeria,Russia,5,TRUE,Kasta-2E2,Air search radar,2006,TRUE,2012-2016,5,TRUE,For use with Pantsyr AD systems
+Algeria,Russia,2,FALSE,Garpun/Plank Shave,Air search radar,2007,TRUE,2011-2012,2,FALSE,For modernization of 2 Project-1234 (Nanuchka or Hamidou) corvettes
+Algeria,Russia,2,TRUE,Pozitiv-ME1.2,Air/sea search radar,1997,TRUE,2000,2,FALSE,For modernization of 1 Project-1159 (Koni or Mourad Rais) frigate and 1 Project-1234 (Nanuchka or Hamidou) corvette
+Egypt,Russia,1,TRUE,Protivnik-GE,Air search radar,2015,TRUE,2016,1,TRUE,
+Algeria,Russia,1,FALSE,MR-104/Drum Tilt,Fire control radar,1997,TRUE,2000,1,FALSE,For modernization of 1 Project-1159 (Koni or Mourad Rais) frigate
+Algeria,Russia,24,TRUE,TEST-71,AS/ASW torpedo,1997,TRUE,2000-2002,24,TRUE,Probably incl for modernized Koni (Mourad Rais) frigate
+Algeria,Russia,40,TRUE,TEST-71,AS/ASW torpedo,2006,TRUE,2010,40,FALSE,For Project-636 (Kilo) submarines
+Algeria,Russia,20,TRUE,TEST-71,AS/ASW torpedo,2007,TRUE,2011-2013,20,TRUE,For modernized Project-1159 (Koni or Mourad Rais) frigates
+Algeria,Russia,6,FALSE,Il-78M,Tanker/transport ac,1998,TRUE,2000-2001,6,TRUE,Second-hand but possibly modernized before delivery
+Algeria,Russia,30,TRUE,Kh-35 Uran/SS-N-25,Anti-ship missile,1998,FALSE,2000,30,TRUE,For modernized Nanuchka (Hamidou) corvette
+Algeria,Russia,125,TRUE,Kh-31M/AS-17 Mod-2,Anti-ship missile,2006,TRUE,2007-2009,125,TRUE,For Su-30MK combat aircraft
+Algeria,Russia,30,TRUE,Kh-35 Uran/SS-N-25,Anti-ship missile,2009,TRUE,2011-2013,30,TRUE,For modernized Project-1234 (Nanuchka or Hamidou) corvettes
+Egypt,Russia,10,TRUE,Moskit/SS-N-22,Anti-ship missile,2015,FALSE,2015-2016,10,TRUE,Second-hand/ aid/ for Project-12421 (Tarantul) FAC
+Egypt,Russia,10,TRUE,Moskit/SS-N-22,Anti-ship missile,2015,FALSE,2015-2016,10,TRUE,Second-hand/ aid/ for Project-12421 (Tarantul) FAC
+Uganda,Russia,25,TRUE,Kh-31A1/AS-17,Anti-ship missile/ARM,2010,FALSE,2011-2012,25,TRUE,Kh-31P anti-radar version
+Algeria,Russia,6,TRUE,MiG-29,Fighter aircraft,1999,TRUE,2000,6,FALSE,Second-hand/ MiG-29UB version/ ordered and delivered via Belarus (part of deal incl 25 MiG-29 delivered from Belarus)
+Algeria,Russia,3,TRUE,Su-24/Fencer,Bomber aircraft,1999,FALSE,2001,3,TRUE,Second-hand but probably modernized before delivery
+Algeria,Russia,22,FALSE,Su-24/Fencer,Bomber aircraft,2000,FALSE,2001-2005,22,TRUE,Second-hand but probably modernised before delivery/ $120 m deal/ Su-22M version
+Algeria,Russia,42,FALSE,Mi-8MT/Mi-17,Transport helicopter,2002,FALSE,2002-2004,42,TRUE,$180 m deal/ Mi-171Sh armed version
+Algeria,Russia,6,FALSE,Mi-26,Transport helicopter,2013,FALSE,2015,6,FALSE,Part of $2.7 b deal/ Mi-26T2 version
+Algeria,Russia,8,FALSE,Mi-26,Transport helicopter,2015,FALSE,2017,8,FALSE,Mi-26T2 version
+Angola,Russia,6,FALSE,Mi-8MT/Mi-17,Transport helicopter,2000,TRUE,2000-2001,6,TRUE,Mi-17V version
+Angola,Russia,8,TRUE,Mi-8MT/Mi-17,Transport helicopter,2013,FALSE,2015-2016,8,FALSE,Part of $1 b deal/ Mi-171Sh armed version
+Burkina Faso,Russia,2,FALSE,Mi-8MT/Mi-17,Transport helicopter,2017,FALSE,2018,2,TRUE,Mi-171Sh armed version
+Cameroon,Russia,3,TRUE,Mi-8MT/Mi-17,Transport helicopter,2013,TRUE,2013-2014,3,TRUE,Probably Mi-17V-5 version
+Cameroon,Russia,2,TRUE,Mi-8MT/Mi-17,Transport helicopter,2014,TRUE,2014,2,TRUE,Probably Mi-17-1V version
+Chad,Russia,2,TRUE,Mi-8MT/Mi-17,Transport helicopter,2005,TRUE,2006,2,TRUE,Mi-171 armed version/ possibly from Russia/ no. could be up to 6/ supplier uncertain (could be second-hand aircraft from other East European supplier)
+Chad,Russia,1,FALSE,Mi-8MT/Mi-17,Transport helicopter,2009,FALSE,2010,1,FALSE,Possibly Chadian Mi-17 seriously damaged in 2002 and rebuilt/ supplier uncertain
+Congo,Russia,2,TRUE,Mi-8MT/Mi-17,Transport helicopter,2012,TRUE,2013-2014,2,TRUE,Armed Mi-171 version
+Egypt,Russia,10,FALSE,Mi-8MT/Mi-17,Transport helicopter,2008,FALSE,2010-2011,10,TRUE,$150-200 m deal/ armed Mi-17V-5 version
+Egypt,Russia,14,FALSE,Mi-8MT/Mi-17,Transport helicopter,2009,FALSE,2012-2013,14,TRUE,$100 m deal/ armed Mi-17V-5 version
+Equatorial Guinea,Russia,1,FALSE,Mi-8MT/Mi-17,Transport helicopter,2005,TRUE,2006,1,FALSE,Mi-172 version/ 1 more delivered for government VIP transport
+Equatorial Guinea,Russia,1,FALSE,Mi-8MT/Mi-17,Transport helicopter,2017,TRUE,2018,1,FALSE,Mi-172 version/ 1 more delivered for government VIP transport
+Ethiopia,Russia,8,TRUE,Mi-8MT/Mi-17,Transport helicopter,2009,TRUE,2010,8,FALSE,Armed Mi-17V-5 version
+Ghana,Russia,4,FALSE,Mi-8MT/Mi-17,Transport helicopter,2004,FALSE,2004,4,FALSE,$55 m deal (financed with loan from UK bank)
+Ghana,Russia,4,FALSE,Mi-8MT/Mi-17,Transport helicopter,2012,FALSE,2013,4,TRUE,EUR64 m deal/ Mi-171Sh armed version
+Ghana,Russia,2,FALSE,Mi-8MT/Mi-17,Transport helicopter,2012,FALSE,2013,2,TRUE,EUR24 m deal/ Mi-171Sh armed version
+Kenya,Russia,3,FALSE,Mi-8MT/Mi-17,Transport helicopter,2010,FALSE,2010,3,FALSE,Mi-171E armed version
+Mozambique,Russia,1,TRUE,Mi-8MT/Mi-17,Transport helicopter,2018,TRUE,2019,1,TRUE,Probably Mi-171 version
+Nigeria,Russia,4,FALSE,Mi-8MT/Mi-17,Transport helicopter,2002,TRUE,2003,4,FALSE,Mi-171Sh armed version
+Nigeria,Russia,6,FALSE,Mi-8MT/Mi-17,Transport helicopter,2012,TRUE,2015,6,TRUE,Mi-171Sh armed version
+Rwanda,Russia,4,FALSE,Mi-8MT/Mi-17,Transport helicopter,1998,FALSE,1999-2000,4,TRUE,Possibly incl some ex-Russian/ Mi-17MD armed version
+Rwanda,Russia,6,TRUE,Mi-8MT/Mi-17,Transport helicopter,2013,TRUE,2014-2015,6,FALSE,Mi-17V version/ incl for use with Rwandan peacekeeping forces in South Sudan
+Senegal,Russia,2,TRUE,Mi-8MT/Mi-17,Transport helicopter,2004,TRUE,2005,2,TRUE,Mi-171 version
+South Sudan,Russia,9,FALSE,Mi-8MT/Mi-17,Transport helicopter,2007,FALSE,2011,9,FALSE,Mi-17V-5 version (not incl 1 Mi-172 version for government VIP transport)
+Sudan,Russia,15,TRUE,Mi-8MT/Mi-17,Transport helicopter,2004,TRUE,2004-2008,15,TRUE,Possibly incl for police
+Sudan,Russia,4,FALSE,Mi-8MT/Mi-17,Transport helicopter,2009,FALSE,2010,4,FALSE,
+Sudan,Russia,6,TRUE,Mi-8MT/Mi-17,Transport helicopter,2011,FALSE,2012,6,TRUE,
+Sudan,Russia,8,TRUE,Mi-8MT/Mi-17,Transport helicopter,2013,FALSE,2015-2016,8,TRUE,
+Zambia,Russia,2,TRUE,Mi-8MT/Mi-17,Transport helicopter,2014,FALSE,2015,2,TRUE,Mi-171E version
+Algeria,Russia,400,TRUE,Berezhok,IFV turret,2005,FALSE,2006-2010,400,TRUE,For modernization of 400 BMP-1 IFV to BMP-1M
+Algeria,Russia,360,FALSE,Berezhok,IFV turret,2014,TRUE,2015-2017,360,TRUE,For modernization of 360 BMP-1 IFV to BMP-1M
+Algeria,Russia,360,FALSE,Berezhok,IFV turret,2014,TRUE,2015-2017,360,TRUE,For modernization of 360 BMP-1 IFV to BMP-1M
+Algeria,Russia,4000,TRUE,Kornet/AT-14,Anti-tank missile,2005,FALSE,2006-2010,4000,TRUE,For BMP-1 IFV modernized to BMP-1M
+Algeria,Russia,500,TRUE,9M131 Metis-M/AT-13,Anti-tank missile,2006,TRUE,2009-2013,500,TRUE,
+Algeria,Russia,1000,TRUE,9M120 Ataka/AT-9,Anti-tank missile,2013,FALSE,2016-2018,1000,TRUE,For Mi-28 combat helicopters/ designation uncertain (possibly not 9M120 but 9M114)
+Algeria,Russia,4000,TRUE,Kornet/AT-14,Anti-tank missile,2014,TRUE,2015-2017,4000,TRUE,
+Egypt,Russia,1000,TRUE,9A1472 Vikhr/AT-16,Anti-tank missile,2015,TRUE,2017-2019,1000,TRUE,For Ka-52K combat helicopters
+Egypt,Russia,1000,TRUE,9M120 Ataka/AT-9,Anti-tank missile,2015,TRUE,2017-2019,1000,TRUE,For Ka-52K combat helicopters
+Eritrea,Russia,80,FALSE,Kornet/AT-14,Anti-tank missile,2005,FALSE,2005,80,TRUE,$0.17 m deal/ Kornet-E version
+Libya,Russia,150,TRUE,9M123/AT-15,Anti-tank missile,2010,TRUE,2010,150,TRUE,For Khrizantema-S tank destroyers
+Libya,Russia,350,TRUE,9M123/AT-15,Anti-tank missile,2012,FALSE,2013,350,TRUE,For Khrizantema-S tank destroyers
+Morocco,Russia,100,TRUE,9M113 Konkurs/AT-5,Anti-tank missile,2000,TRUE,2001,100,TRUE,
+Morocco,Russia,100,FALSE,Kornet/AT-14,Anti-tank missile,2000,TRUE,2001,100,TRUE,
+Nigeria,Russia,300,TRUE,9M114 Shturm/AT-6,Anti-tank missile,2015,TRUE,2017-2019,150,TRUE,For Mi-35M combat helicopters
+Sudan,Russia,100,TRUE,Kornet/AT-14,Anti-tank missile,2011,TRUE,2012,100,TRUE,
+Uganda,Russia,1000,FALSE,Kornet/AT-14,Anti-tank missile,2010,FALSE,2012-2013,1000,TRUE,Kornet-E version
+Algeria,Russia,300,TRUE,48N6/SA-10,SAM,2006,FALSE,2008-2011,300,TRUE,For S-300PMU-2 (SA-20B) SAM system
+Algeria,Russia,900,TRUE,57000000,SAM,2006,TRUE,2012-2016,900,TRUE,For Pantsyr-S1 air-defence systems
+Algeria,Russia,3,TRUE,S-300PMU2/SA-20B,SAM system,2006,TRUE,2008-2011,3,TRUE,
+Algeria,Russia,100,TRUE,9M317/SA-17 Grizzly,SAM,2013,TRUE,2017,100,TRUE,
+Algeria,Russia,1,TRUE,Buk-M2/SA-17,SAM system,2013,TRUE,2017,1,TRUE,
+Burkina Faso,Russia,20,FALSE,Igla-S/SA-24,Portable SAM,2011,FALSE,2012,20,TRUE,For vehicle-mounted launchers
+Egypt,Russia,10,TRUE,S-125 Pechora-2M,SAM system,1999,FALSE,2002-2006,10,TRUE,Egyptian SA-3 SAMS rebuilt to Pechora M2 version/ no. could be 20
+Egypt,Russia,100,FALSE,9M338/SA-15,SAM,2005,TRUE,2005,100,TRUE,
+Egypt,Russia,100,TRUE,9M338/SA-15,SAM,2005,TRUE,2011,100,TRUE,
+Egypt,Russia,4,FALSE,Tor-M1/SA-15,Mobile SAM system,2005,TRUE,2005,4,TRUE,
+Egypt,Russia,4,TRUE,Tor-M1/SA-15,Mobile SAM system,2005,TRUE,2011,4,TRUE,Possibly Tor-M2 version
+Egypt,Russia,1,TRUE,9K37 Buk-1M/SA-11,SAM system,2006,TRUE,2007,1,TRUE,
+Egypt,Russia,100,TRUE,9M317/SA-17 Grizzly,SAM,2006,TRUE,2007,100,TRUE,For Buk-1M (SA-11) SAM system
+Egypt,Russia,20,TRUE,S-125 Pechora-2M,SAM system,2006,TRUE,2010-2011,20,TRUE,Egyptian S-125 (SA-3) SAM systems rebuilt to Pechora M2 version
+Egypt,Russia,600,TRUE,Igla-S/SA-24,Portable SAM,2007,TRUE,2009-2010,600,TRUE,For modernization of    ZSU-23 SPAAG to ZSU-23-4M4
+Egypt,Russia,1,TRUE,Buk-M2/SA-17,SAM system,2012,TRUE,2014,1,TRUE,Possibly Egyptian Buk-M1-2 (SA-11) SAM system rebuilt to Buk-M2
+Egypt,Russia,40,TRUE,9M82M/SA-23A,SAM,2014,TRUE,2016-2017,40,TRUE,For S-300VM (Antey-2500 or SA-23) SAM systems
+Egypt,Russia,150,TRUE,9M83M/SA-23B,SAM,2014,TRUE,2016-2017,150,TRUE,For S-300VM (Antey-2500 or SA-23) SAM systems
+Egypt,Russia,3,FALSE,S-300VM/SA-23,SAM system,2015,TRUE,2016-2017,3,TRUE,$0.5-1 b deal
+Ethiopia,Russia,100,TRUE,57000000,SAM,2018,TRUE,2019,100,TRUE,For Pantsyr-S1 air defence systems
+Libya,Russia,482,TRUE,Igla-S/SA-24,Portable SAM,2004,FALSE,2006-2008,482,TRUE,For vehicle-mounted launchers
+Morocco,Russia,200,TRUE,9M311/SA-19,SAM,2005,FALSE,2005-2008,200,TRUE,For 2S6 AD systems
+Algeria,Russia,40,TRUE,53-65,AS torpedo,2006,FALSE,2010,40,TRUE,For Project-636 (Kilo) submarines
+Algeria,Russia,40,TRUE,53-65,AS torpedo,2014,TRUE,2018,40,TRUE,For Project-636 (Kilo) submarines
+Algeria,Russia,38,TRUE,96K9 Pantsyr-S1,Mobile AD system,2006,TRUE,2012-2016,38,TRUE,
+Ethiopia,Russia,4,TRUE,96K9 Pantsyr-S1,Mobile AD system,2018,TRUE,2019,4,TRUE,
+Morocco,Russia,12,TRUE,2S6M Tunguska,Mobile AD system,2005,FALSE,2005-2008,12,TRUE,$250 m deal
+Algeria,Russia,125,TRUE,Kh-59/AS-13,ASM,2006,TRUE,2008-2009,125,TRUE,For Su-30MK combat aircraft
+Algeria,Russia,2,FALSE,Project-636E/Kilo,Submarine,2006,FALSE,2010,2,FALSE,$400 m deal
+Algeria,Russia,2,FALSE,Project-636E/Kilo,Submarine,2014,FALSE,2018,2,FALSE,
+Algeria,Russia,350,TRUE,R-73/AA-11,SRAAM,2006,TRUE,2008-2009,350,TRUE,For Su-30MK combat aircraft
+Egypt,Russia,300,TRUE,R-73/AA-11,SRAAM,2015,TRUE,2017-2019,225,TRUE,
+Uganda,Russia,75,TRUE,R-73/AA-11,SRAAM,2010,TRUE,2011-2012,75,TRUE,For Su-30 combat aircraft
+Algeria,Russia,250,TRUE,RVV-AE/AA-12 Adder,BVRAAM,2006,TRUE,2008-2009,250,TRUE,For Su-30MK combat aircraft
+Egypt,Russia,300,TRUE,RVV-AE/AA-12 Adder,BVRAAM,2015,TRUE,2017-2019,225,TRUE,For MiG-29M2 combat aircraft
+Algeria,Russia,28,FALSE,Su-30MK,FGA aircraft,2006,TRUE,2008-2009,28,FALSE,$1.2-1.8 b deal/ Su-30MKA version
+Algeria,Russia,16,FALSE,Su-30MK,FGA aircraft,2010,FALSE,2011-2012,16,TRUE,$0.8-1 b deal/ Su-30MKA version
+Algeria,Russia,14,FALSE,Su-30MK,FGA aircraft,2015,FALSE,2016-2018,14,TRUE,Su-30MKA version
+Angola,Russia,12,FALSE,Su-30K,FGA aircraft,2013,FALSE,2017-2019,12,FALSE,Second-hand (originally delivered to India but returned to Russian producer) but modernized in Belarus to Su-30SM before delivery/ financed with Russian loan
+Egypt,Russia,50,TRUE,MiG-29M,FGA aircraft,2015,FALSE,2017-2019,39,TRUE,Incl MiG-29M2 version/ delivery planned 2017-2020
+Egypt,Russia,24,TRUE,Su-35,FGA aircraft,2019,TRUE,,,FALSE,$2 billion deal
+Eritrea,Russia,2,TRUE,MiG-29S,FGA aircraft,2001,TRUE,2001,2,FALSE,
+Eritrea,Russia,2,TRUE,MiG-29SMT/Fulcrum-F,FGA aircraft,2002,TRUE,2004,2,FALSE,No. could be 4
+Ethiopia,Russia,8,TRUE,Su-27S/Flanker-B,FGA aircraft,2002,TRUE,2003-2004,8,TRUE,Possibly second-hand
+Sudan,Russia,12,FALSE,MiG-29S,FGA aircraft,2002,FALSE,2003-2004,12,FALSE,$120 m deal/ MiG-29SE version/ incl 2 MiG-29UB
+Uganda,Russia,6,FALSE,Su-30MK,FGA aircraft,2010,FALSE,2011-2012,6,FALSE,UGX1.8 tr ($635 m) deal/ Su-30MK2 version
+Algeria,Russia,185,FALSE,T-90S,Tank,2006,FALSE,2006-2008,185,FALSE,$1 b deal/ T-90SA and T-90SKA versions
+Algeria,Russia,120,TRUE,T-90S,Tank,2011,FALSE,2012-2014,120,TRUE,$470 m deal/ T-90SA and T-90SKA versions
+Algeria,Russia,203,TRUE,T-90S,Tank,2014,TRUE,2015-2016,203,TRUE,T-90SA and T-90SKA versions
+Algeria,Russia,300,TRUE,BMPT Terminator,Tank/AFSV,2016,TRUE,,,FALSE,BMPT-72 version
+Uganda,Russia,23,TRUE,T-55AM-2,Tank,2009,FALSE,2009,23,FALSE,Second-hand/ delivered via Belarus
+Uganda,Russia,44,TRUE,T-90S,Tank,2010,FALSE,2011,44,FALSE,
+Algeria,Russia,16,FALSE,Yak-130,Trainer/combat ac,2006,FALSE,2011,16,TRUE,$200-250 m deal
+Algeria,Russia,4,TRUE,9P78 Iskander,SSM TEL,2013,TRUE,2017,4,TRUE,Recipient uncertain (could be other recipient in Middle East or North Africa)
+Algeria,Russia,25,TRUE,Iskander,SSM,2013,TRUE,2017,25,TRUE,Recipient uncertain
+Algeria,Russia,42,FALSE,Mi-28N,Combat helicopter,2013,FALSE,2016-2018,42,TRUE,Part of $2.7 b deal/ Mi-28NE version
+Angola,Russia,6,TRUE,Mi-24P/Mi-35P,Combat helicopter,2000,TRUE,2000-2002,6,FALSE,Possibly ex-Russian
+Angola,Russia,12,FALSE,Mi-24P/Mi-35P,Combat helicopter,2015,TRUE,2016,12,FALSE,Second-hand/ modernized before delivery
+Burkina Faso,Russia,2,FALSE,Mi-24P/Mi-35P,Combat helicopter,2005,FALSE,2005,2,FALSE,Probably second-hand but modernized before delivery/ Mi-35 version
+Cameroon,Russia,2,TRUE,Mi-24V/Mi-35,Combat helicopter,2015,FALSE,2016,2,TRUE,Second-hand but modernized before delivery/ for use against Boko Haram rebels
+Egypt,Russia,46,FALSE,Ka-52/Hokum-B,Combat helicopter,2015,TRUE,2017-2019,46,TRUE,Ka-52K version
+Ethiopia,Russia,10,TRUE,Mi-24P/Mi-35P,Combat helicopter,2002,TRUE,2003-2004,10,FALSE,Probably second-hand but possibly modernized before delivery/ $25 m deal
+Mali,Russia,4,TRUE,Mi-35M,Combat helicopter,2016,TRUE,2017,2,FALSE,
+Niger,Russia,2,TRUE,Mi-24P/Mi-35P,Combat helicopter,2007,FALSE,2008,2,TRUE,Possibly second-hand
+Nigeria,Russia,6,FALSE,Mi-24P/Mi-35P,Combat helicopter,2000,TRUE,2000,6,FALSE,Probably second-hand but modernized before delivery
+Nigeria,Russia,3,FALSE,Mi-35M,Combat helicopter,2012,FALSE,2014,3,TRUE,Possibly second-hand Mi-24 rebuilt to Mi-35M before delivery
+Nigeria,Russia,6,TRUE,Mi-35M,Combat helicopter,2014,FALSE,2014-2015,6,TRUE,Possibly second-hand Mi-24 but modernized or rebuilt to Mi-35M before delivery
+Nigeria,Russia,12,TRUE,Mi-35M,Combat helicopter,2015,FALSE,2017-2019,6,FALSE,
+Senegal,Russia,2,TRUE,Mi-24P/Mi-35P,Combat helicopter,2005,TRUE,2007,2,FALSE,Mi-35P version/ possibly second-hand Mi-24 modernized or rebuilt to Mi-35P
+South Sudan,Russia,6,TRUE,Mi-24P/Mi-35P,Combat helicopter,2014,FALSE,2015-2016,6,TRUE,Second-hand/ $42.8 m deal/ sold via Ukraine
+Sudan,Russia,16,TRUE,Mi-24P/Mi-35P,Combat helicopter,2000,FALSE,2001-2002,16,TRUE,Probably second-hand but modernized before delivery
+Sudan,Russia,12,FALSE,Mi-24P/Mi-35P,Combat helicopter,2005,FALSE,2005,12,TRUE,Probably second-hand but modernized before delivery/ probably incl Mi-24V version
+Sudan,Russia,12,TRUE,Mi-24P/Mi-35P,Combat helicopter,2009,FALSE,2011,12,FALSE,Probably second-hand but modernized before delivery/ probably incl Mi-24V version
+Sudan,Russia,12,FALSE,Mi-24P/Mi-35P,Combat helicopter,2013,FALSE,2015-2017,12,TRUE,Probably second-hand but modernized before delivery
+Uganda,Russia,3,TRUE,Mi-24P/Mi-35P,Combat helicopter,2003,TRUE,2004,3,TRUE,Second-hand Mi-24P but modernized to Mi-24PN before delivery
+Algeria,Russia,11,TRUE,Tigr,APV,2015,FALSE,2016-2017,11,TRUE,
+Guinea,Russia,4,FALSE,Tigr,APV,2011,TRUE,2011,4,FALSE,
+Algeria,Russia,4,TRUE,TOS-1,Self-propelled MRL,2015,TRUE,2016,4,TRUE,
