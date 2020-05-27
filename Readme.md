@@ -35,7 +35,7 @@ You can find the raw data this analysis is based on in the [data folder](/data).
 Column title | content | data type
 ---------------|----------| ---------|
 year | year of delivery | numerical
-country | exporting country, filtered to only include Russia, China, USA, France | categorical
+country | exporting country, filtered to only include Russia, China, USA, France | string, categorical
 ExportsToAfricanStates_million_TIV | total export volume from exporting country to all African states, in million TIV | numerical
 
 ![](/charts/165_en_arms_countries_01.png)
@@ -49,7 +49,7 @@ ExportsToAfricanStates_million_TIV | total export volume from exporting country 
 **Dataset Structure**
 Column title | content | data type
 ---------------|----------| ---------|
-country | African country importing Russian arms | categorical
+country | African country importing Russian arms | string, categorical
 *year columns* | one column for each year between 2000 and 2019 | numerical
 TIV_ArmsFromRussia_2000_2019 | sum, created by adding up all year columns | numerical
 TIV_ArmsFromRussia_2015_2019 | sum, created by summing up the columns from 2015 to 2019 | numerical
