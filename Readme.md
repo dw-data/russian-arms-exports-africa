@@ -56,7 +56,7 @@ TIV_ArmsFromRussia_2015_2019 | sum, created by summing up the columns from 2015 
 
 The column `TIV_ArmsFromRussia_2015_2019` is the one that was used to create the map.
 
-![](/charts/166_en_mapping_RussianWeapons_Africa-01.png)
+![](/charts/166_en_mapping_RussianWeapons_Africa-01.png=400x400)
 
 ### Russian exports to African states: geographical distribution of recipients
 
@@ -68,7 +68,7 @@ The column `TIV_ArmsFromRussia_2015_2019` is the one that was used to create the
 Column title | content | data type
 ---------------|----------| ---------|
 
-![](/charts/166_en_mapping_RussianWeapons_Africa-01.png)
+![](/charts/167_en_weaponsystems.png)
 
 
 
