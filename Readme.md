@@ -50,13 +50,13 @@ ExportsToAfricanStates_million_TIV | total export volume from exporting country 
 Column title | content | data type
 ---------------|----------| ---------|
 country | African country importing Russian arms | categorical
-*year colums* | one column for each year between 2000 and 2019 | numerical
+*year columns* | one column for each year between 2000 and 2019 | numerical
 TIV_ArmsFromRussia_2000_2019 | sum, created by adding up all year columns | numerical
 TIV_ArmsFromRussia_2015_2019 | sum, created by summing up the columns from 2015 to 2019 | numerical
 
 The column `TIV_ArmsFromRussia_2015_2019` is the one that was used to create the map.
 
-![](/charts/166_en_mapping_RussianWeapons_Africa-01.png =200x200)
+![](/charts/166_en_mapping_RussianWeapons_Africa-01.png)
 
 ### Russian exports to African states: geographical distribution of recipients
 
@@ -67,6 +67,20 @@ The column `TIV_ArmsFromRussia_2015_2019` is the one that was used to create the
 **Dataset Structure**
 Column title | content | data type
 ---------------|----------| ---------|
+Recipient | country, filtered to include African recipients only | string, categorical
+Supplier | filtered to only reflect Russia as a supplier | string, categorical
+No. ordered | number of ordered items | numerical
+uncertain | assessment of `No. ordered` column| binary
+Weapon designation| weapon types | string, unstructured
+Weapon description| classification of weapons | string, categorical
+Year of order | year or timespan of order| numerical
+uncertain| assessment of `Year of order` column| binary
+Year of delivery| year or timespan of delivery, dataset filtered to include orders delivered between 2000 and 2019 | numerical
+No. delivered| number of delivered items | numerical 
+uncertain| assessment of `No. delivered` column | binary
+Comments | comments made by SIPRI researchers | string, unstructured
+
+The chart is based on the number of orders for different weapon types, rather than the number of items ordered. Thus, the ranking was created by condensing the table with a pivot table on column `Weapon description` rather than on column `No. ordered`. During the analysis process, we tried both - with either approach, the picture does not change radically and about the same weapons rank among the top10, just in a slightly different order. Since less valuable items such as firearms can naturally be ordered in a much higher quantity than more expensive items like helicopters for example, we decided to settle on the number of orders for particular weapon systems instead, to reflect what items are often bought from Russian suppliers.
 
 ![](/charts/167_en_weaponsystems.png)
 
