@@ -1,11 +1,11 @@
-# Russian arms exported to African States
+# Russian arms exported to African states
 
 Idea, data analysis, research, writing: [Tatiana Kondratenko](https://twitter.com/takondratenko)
 
 You can read the [story here]()
 
 
-## Source and Definitions
+## Source and definitions
 
 ### Source 
 
@@ -13,12 +13,12 @@ Data for this analysis was extracted from [SIPRI's Arms Transfers Database](http
 
 ### Definitions
 
-* **SIPRI's Trend Indicator Values (TIV)** If not otherwise stated, all figures used in this analysis refer to SIPRI's TIV expressed in millions. The TIV does not reflect the financial value of weapons traded. Instead it is a military capability index based on weapons purchased by countries. A more detailed definition can be found [here](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1212.pdf). Furthermore SIPRI states that figures may not add up due to the conventions of rounding. A '0' indicates that the value of deliveries is less than 0.5m. More details can be found [here](http://www.sipri.org/databases/armstransfers/sources-and-methods/).
+* **SIPRI's Trend Indicator Values (TIV)** If not otherwise stated, all figures used in this analysis refer to SIPRI's TIV expressed in millions. The TIV does not reflect the financial value of weapons traded. Instead it is a index based on value of weapons purchased by countries. A more detailed definition can be found [here](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1212.pdf). Furthermore SIPRI states that figures may not add up due to the conventions of rounding. A '0' indicates that the value of deliveries is less than 0.5m. More details can be found [here](http://www.sipri.org/databases/armstransfers/sources-and-methods/).
 
 * **Classification of regions**: In this analysis we chose to classify countries differently from how SIPRI clusters countries into regions. According to [SIPRI's classification of countries](https://www.sipri.org/databases/regional-coverage), Egypt is assigned to the Middle East region. In our analyis we assigned it to Africa. This is why our figures for overall exports from Russia to African countries are higher than those cited in SIPRI's reports on this topic.
 
 
-## Data and Analysis
+## Data and analysis
 
 All data used for this analysis was extracted from the SIPRI Arms Transfers Database on April 6, 2020. 
 
@@ -30,7 +30,7 @@ You can find the raw data this analysis is based on in the [data folder](/data).
 
 **Timeframe:** TIV of arms exports from Russia to African countries, 2000-2019
 
-**Dataset Structure**
+**Dataset structure**
 
 Column title | content | data type
 ---------------|----------| ---------|
@@ -40,13 +40,13 @@ ExportsToAfricanStates_million_TIV | total export volume from exporting country 
 
 ![](/charts/165_en_arms_countries_01.png)
 
-### Most-ordered weapons by African states from Russian suppliers
+### Russian exports to African states: geographical distribution of recipients
 
 [Data File](/data/RussianArmsImportedByAfricanCountries.csv)
 
-**Timeframe:** Arms exports from Russia, 2000-2019
+**Timeframe:** TIV of arms exports from Russia, 2015 and 2019
 
-**Dataset Structure**
+**Dataset structure**
 Column title | content | data type
 ---------------|----------| ---------|
 country | African country importing Russian arms | string, categorical
@@ -58,13 +58,13 @@ The column `TIV_ArmsFromRussia_2015_2019` is the one that was used to create the
 
 ![](/charts/166_en_mapping_RussianWeapons_Africa-01.png)
 
-### Russian exports to African states: geographical distribution of recipients
+### Most-ordered weapons by African states from Russian suppliers
 
 [Data File](/data/WeaponsTypesExportedFromRussiaToAfrica.csv)
 
-**Timeframe:** TIV of arms exports from Russia, 2015 and 2019
+**Timeframe:** Arms exports from Russia, 2000-2019
 
-**Dataset Structure**
+**Dataset structure**
 Column title | content | data type
 ---------------|----------| ---------|
 Recipient | country, filtered to include African recipients only | string, categorical
