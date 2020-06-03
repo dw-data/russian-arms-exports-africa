@@ -2,7 +2,7 @@
 
 Idea, data analysis, research, writing: [Tatiana Kondratenko](https://twitter.com/takondratenko)
 
-You can read the [story here]()
+You can read the [story here](https://www.dw.com/en/russian-arms-exports-to-africa-moscows-long-term-strategy/a-53596471)
 
 
 ## Source and definitions
